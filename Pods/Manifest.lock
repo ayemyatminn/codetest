@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (5.5.0)
+  - CombineCocoa (0.4.0)
+  - DLRadioButton (1.4.12)
+  - IQKeyboardManagerSwift (6.5.10)
+  - Wormholy (1.6.5)
+
+DEPENDENCIES:
+  - Alamofire
+  - CombineCocoa
+  - DLRadioButton (~> 1.4)
+  - IQKeyboardManagerSwift
+  - Wormholy
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CombineCocoa
+    - DLRadioButton
+    - IQKeyboardManagerSwift
+    - Wormholy
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  CombineCocoa: 68a050228ce7c53c1c5ac2c57cccf92a7f5c5085
+  DLRadioButton: d7c4e225ed0e8013cef7be61455230c7557ad7c1
+  IQKeyboardManagerSwift: 52962c76ab33532f15ad9f3ff4e5715eda5335bb
+  Wormholy: 3252bc3e55a1847ef9a0976c1377bd77bf3635fa
+
+PODFILE CHECKSUM: 4615057428a1ccf7afa25f53f872cd23838c9702
+
+COCOAPODS: 1.11.2
